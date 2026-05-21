@@ -3,8 +3,8 @@ token_mint1       = "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
 token_mint2       = "So11111111111111111111111111111111111111112"
 amount            = 1000.0
 min_profit        = 0.5
-jupiter_api_key   = "jup_39d5114243abbf41c830bc2a6253ad069c41a19029c6e5dca52d7d51e948ad8e"
-rpc_url           = "https://mainnet.helius-rpc.com/?api-key=a041965d-d987-41be-a343-a81da8541430"
+jupiter_api_key   = "jupiter-api-key"
+rpc_url           = "https://your-rpc"
 grpc_url          = "https://your-grpc-endpoint.com"
 jito_tip_lamports = 10000
 slippage_bps      = 50
